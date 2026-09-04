@@ -1,0 +1,8 @@
+.venv/
+.env
+
+build/
+dist/
+wheels/
+*.egg-info
+docs/
